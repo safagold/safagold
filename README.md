@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safagold
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  backend developer ( Node js & mindgo db )
-- 💻 I`m currently working with frontend developer ( HTML , CSS , BOOSTRAPE , JS , REACT JS )
+- 💻 I`m currently working with frontend developer ( HTML , CSS , Boostrape , JS , React JS )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me safiashomar@gmail.com
 
